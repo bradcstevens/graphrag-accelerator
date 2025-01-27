@@ -46,7 +46,7 @@ function set_variables() {
     AAD_TENANT_ID=${AAD_TENANT_ID:-""}
     AAD_TOKEN_ISSUER_URL=${AAD_TOKEN_ISSUER_URL:-"https://login.microsoftonline.com/$AAD_TENANT_ID/v2.0"}
     IMAGE_NAME=${IMAGE_NAME:-"graphrag:frontend"}
-    REGISTRY_NAME=${REGISTRY_NAME:-"${RESOURCE_GROUP}reg"}
+    REGISTRY_NAME=${REGISTRY_NAME:-"crnus57tgulcp3u"}
     APP_SERVICE_PLAN=${APP_SERVICE_PLAN:-"${RESOURCE_GROUP}-asp"}
     WEB_APP=${WEB_APP:-"${RESOURCE_GROUP}-playground"}
     WEB_APP_IDENTITY=${WEB_APP_IDENTITY:-"${WEB_APP}-identity"}

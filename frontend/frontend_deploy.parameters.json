@@ -1,8 +1,8 @@
 {
-  "SUBSCRIPTION_ID": "<your_subscription_id>",
-  "RESOURCE_GROUP": "<your_resource_group>",
-  "LOCATION": "<your_location>",
-  "AAD_CLIENT_ID": "<your_aad_client_id>",
-  "AAD_OBJECT_ID": "<your_aad_object_id>",
-  "AAD_TENANT_ID": "<your_aad_tenant_id>"
+  "SUBSCRIPTION_ID": "3523b0e6-bb53-4e87-8340-25c416e26093",
+  "RESOURCE_GROUP": "rg-graphrag-lab",
+  "LOCATION": "westus",
+  "AAD_CLIENT_ID": "6477ec94-1061-4415-a3a6-ac6b994f61c7",
+  "AAD_OBJECT_ID": "86bffacb-b5c0-46e8-bb72-9bbfca6ec99a",
+  "AAD_TENANT_ID": "0f87abfb-0840-4199-96b7-1882c01a998b"
 }
